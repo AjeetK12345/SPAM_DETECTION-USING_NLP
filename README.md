@@ -9,6 +9,7 @@ It basically consists of combining machine learning techniques with text, and us
 
 ___
 Used these :>>
+
 1 .Naive Bais Classifier 
 
 2. After the counting, the term weighting and normalization can be done with [TF-IDF], using scikit-learn's TfidfTransformer.
